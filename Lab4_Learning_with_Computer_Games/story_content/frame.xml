@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Learning with Computer Games" />
+              <option name="title_text" value="Lab4_Learning_with_Computer_Games" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1575,7 +1575,6 @@
             <slidelink slideid="_player.65YLt0niaNL.603h4P099mG" displaytext="PhET Interactive Simulations" expand="false" type="slide" />
             <slidelink slideid="_player.65YLt0niaNL.6WSX7NfPhX0" displaytext="Course Completion Congratulations" expand="false" type="slide" />
             <slidelink slideid="_player.65YLt0niaNL.6GcUHVgfsea" displaytext="Drag and Drop" expand="false" type="slide" />
-            <slidelink slideid="_player.65YLt0niaNL.5V3L1fpVoX6" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.65YLt0niaNL.6K9wUAL5Kwx" displaytext="References" expand="false" type="slide" />
           </links>
         </slidelink>
