@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_61P9eYjtx66" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Vinyl_Cutter_Parts_and_Their_Purposes_Module</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">An introduction to the vinyl cutter parts and their purposes.</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Vinyl_Cutter_Parts_and_Their_Purposes_Module_ORG">
+    <organization identifier="Vinyl_Cutter_Parts_and_Their_Purposes_Module_ORG">
+      <title>Vinyl_Cutter_Parts_and_Their_Purposes_Module</title>
+      <item identifier="Vinyl_Cutter_Parts_and_Their_Purposes_SCO" isvisible="true" identifierref="__61P9eYjtx66_RES">
+        <title>Vinyl_Cutter_Parts_and_Their_Purposes_Module</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__61P9eYjtx66_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qeFpAsRBYE.jpg" />
+      <file href="story_content/67OnVDKtWhp_44100_48_0.mp3" />
+      <file href="story_content/6mJB3c6fBNs_captions.js" />
+      <file href="mobile/6WloateWAdF.png" />
+      <file href="story_content/64KAXe03ASr.html" />
+      <file href="mobile/64KAXe03ASr5kiDi180gbT{Width=995.5554, Height=560}Light.png" />
+      <file href="story_content/5stD8FoV8GL_44100_48_0.mp3" />
+      <file href="story_content/6PqLMGBF1Wn_captions.js" />
+      <file href="mobile/5tSaIUomJkM.png" />
+      <file href="mobile/5k5u8odybMS.png" />
+      <file href="mobile/6a06fsIvlLg.png" />
+      <file href="mobile/6gVSQKqVodH.png" />
+      <file href="mobile/6nlFOJe36nX.png" />
+      <file href="story_content/6Azs2aqC1U3_44100_48_0.mp3" />
+      <file href="story_content/6GSiRgZfKZ1_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/6WTLJAMMc6d.png" />
+      <file href="story_content/5rxXyAFYaiy.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Video_Script_Vinyl_Cutter_Parts_and_Purposes.docx" />
+      <file href="story_content/external_files/Main_Points_Vinyl_Cutter_Parts_and_Their_Purposes.docx" />
+      <file href="mobile/txt__default_6kZU5ZoxmWN.png" />
+      <file href="mobile/Shape5caYVN8LP3E.png" />
+      <file href="mobile/Shape5yMlOmlF7oy.png" />
+      <file href="mobile/Shape679qCC8QGey.png" />
+      <file href="mobile/Shape637xkgrCwXd.png" />
+      <file href="mobile/txt__default_62fiVdEufih.png" />
+      <file href="mobile/txt__default_5adpVubr5Tp.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hletjgJ3PM.js" />
+      <file href="html5/data/js/5nbHOdLWzVj.js" />
+      <file href="html5/data/js/5tAGXWC5NMR.js" />
+      <file href="html5/data/js/5VO5tcVpa5d.js" />
+      <file href="html5/data/js/5wgHnuYku6m.js" />
+      <file href="html5/data/js/5wWz649OxQ7.js" />
+      <file href="html5/data/js/5XK2jFNHp9q.js" />
+      <file href="html5/data/js/5YFRGnF7Yc3.js" />
+      <file href="html5/data/js/64pzDiaqvak.js" />
+      <file href="html5/data/js/69Jtx0boXWc.js" />
+      <file href="html5/data/js/6Ahae12DDe4.js" />
+      <file href="html5/data/js/6e7lsapeXyK.js" />
+      <file href="html5/data/js/6NgPi58vUyv.js" />
+      <file href="html5/data/js/6qd9tmBIsgz.js" />
+      <file href="html5/data/js/6QfDJ4zA8mT.js" />
+      <file href="html5/data/js/6YasYOKYflE.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
