@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6plEPOs3dLF" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Vinyl_Cutter_Safety_Module</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Vinyl cutter safety module</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Vinyl_Cutter_Safety_Module_ORG">
+    <organization identifier="Vinyl_Cutter_Safety_Module_ORG">
+      <title>Vinyl_Cutter_Safety_Module</title>
+      <item identifier="Vinyl_Cutter_Safety_SCO" isvisible="true" identifierref="__6plEPOs3dLF_RES">
+        <title>Vinyl_Cutter_Safety_Module</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6plEPOs3dLF_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5qeFpAsRBYE.jpg" />
+      <file href="mobile/6WloateWAdF.png" />
+      <file href="story_content/68MqU1WXFKo_44100_48_0.mp3" />
+      <file href="story_content/68iJS39NEuS_captions.js" />
+      <file href="story_content/5tOIg7Ibj0D.html" />
+      <file href="mobile/5tOIg7Ibj0D5sLpxLDk9y1{Width=1003.555, Height=564.5}Light.png" />
+      <file href="story_content/6JFHxzP25Oi_44100_48_0.mp3" />
+      <file href="story_content/6jQqOz0GgTL_captions.js" />
+      <file href="mobile/6C2pRH0BsMF.jpg" />
+      <file href="mobile/6nlFOJe36nX.png" />
+      <file href="story_content/65NYjttg1EU_44100_48_0.mp3" />
+      <file href="story_content/6eGYD8ydPnZ_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/5lMoM8YqOOa.png" />
+      <file href="story_content/5vmwuvlMCPb.png" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Video_Script_Vinyl_Cutter_Safety.docx" />
+      <file href="story_content/external_files/Vinyl_Cutter_Safety_Main_Points.docx" />
+      <file href="mobile/txt__default_64Bnca3wIxT.png" />
+      <file href="mobile/Shape5qBtpEzxe0O.png" />
+      <file href="mobile/Shape6UA8EUbnRqW.png" />
+      <file href="mobile/Shape5wFUUj637an.png" />
+      <file href="mobile/Shape6UsIRf3a36B.png" />
+      <file href="mobile/Shape5qzWk1uKIyH.png" />
+      <file href="mobile/Shape5nJAGg6uY49.png" />
+      <file href="mobile/Shape5zPQTyKuCgz.png" />
+      <file href="mobile/Shape5qCATp3Qpna.png" />
+      <file href="mobile/Shape62TC2AEX1gw.png" />
+      <file href="mobile/Shape6Jq7nRhVGPn.png" />
+      <file href="mobile/Shape5rpzuQsZK4l.png" />
+      <file href="mobile/txt__default_6URJmT1YcYA.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bPIsDDIC51.js" />
+      <file href="html5/data/js/5dQyUUElcZp.js" />
+      <file href="html5/data/js/5jQ9H7jcPYw.js" />
+      <file href="html5/data/js/5qmHCvfKIf5.js" />
+      <file href="html5/data/js/5ymgv6btXap.js" />
+      <file href="html5/data/js/66KL7rlQxM6.js" />
+      <file href="html5/data/js/67jys1HEFwu.js" />
+      <file href="html5/data/js/6CZQs5uwclY.js" />
+      <file href="html5/data/js/6DzujzWRHIp.js" />
+      <file href="html5/data/js/6fn451hjrcy.js" />
+      <file href="html5/data/js/6iBv6OUJB3S.js" />
+      <file href="html5/data/js/6IVM1yoEDED.js" />
+      <file href="html5/data/js/6oqjXQSxgWM.js" />
+      <file href="html5/data/js/6PjYNsygFjn.js" />
+      <file href="html5/data/js/6QDMGqiSqHK.js" />
+      <file href="html5/data/js/6qsUv9XIC6B.js" />
+      <file href="html5/data/js/6Y6etHui94t.js" />
+      <file href="html5/data/js/6YDbLyHg2HB.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
