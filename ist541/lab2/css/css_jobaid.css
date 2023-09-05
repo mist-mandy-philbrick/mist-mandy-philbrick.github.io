@@ -80,7 +80,7 @@ h1, h2, h3 {
 .stepTitle_THREE{
 	padding:10px;
 	text-align:left;
-	background-color:#E35557;
+	background-color:#E66D6E;
 	font-weight: bold;
 	font-size: 130%; 
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
@@ -98,6 +98,30 @@ h1, h2, h3 {
     width:55%;
     height:auto;
 	align-content: center
+}
+
+.correct {
+	background-color: #7CEE94;
+	padding:20px;
+	border-radius:20px;
+}
+
+.incorrect {
+	background-color: #E66D6E;
+	padding:20px;
+	border-radius:20px;
+}
+.material-icons {
+	font-size: 2.5em;
+	color: #404040;
+	vertical-align: middle
+	
+}
+
+.material-icons-outlined {
+	font-size: 2.5em;
+	color: #404040;
+	vertical-align: middle
 }
 
 strong {

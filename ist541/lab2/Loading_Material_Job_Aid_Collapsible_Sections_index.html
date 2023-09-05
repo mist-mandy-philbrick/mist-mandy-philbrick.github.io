@@ -2,11 +2,16 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Lab1 Job Aid</title>
-<link href="css/css_jobaid.css" rel="stylesheet">
+<title>Lab2 Job Aid</title>
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+      rel="stylesheet">
+	<link href="css/css_jobaid.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -21,7 +26,7 @@
 		<br>
 		
 
-    <details>
+    <details open>
 
 		<summary class="stepTitle">
 			Step 1: Lower the Loading Lever
@@ -31,7 +36,9 @@
 
 		<div class="stepDescription">
 			<p> <strong>Lowering the loading lever </strong>releases the clamps, allowing material to be fed through the front of the vinyl cutter.</p> 
-			<p> <strong>Do NOT use excessive force </strong>as this can damage the vinyl cutter. </p>
+			<p class="incorrect">
+				<span class="material-icons">error_outline</span>
+				<strong>Do NOT use excessive force </strong>as this can damage the vinyl cutter. </p>
 		</div>
 
 		<div class="stepImage">
@@ -119,7 +126,7 @@
 		<div class="stepContent">
 
 		<div class="stepDescription">
-			<p> This pinch roller is in the <strong>correct</strong> position to pull your material (media) into the vinyl cutter. </p>
+			<p> <span class="material-icons-outlined">check_circle</span> This pinch roller is in the <strong>correct</strong> position to pull your material (media) into the vinyl cutter. </p>
 		</div>
 
 		<div class="stepImage">
@@ -139,7 +146,10 @@
 		<div class="stepContent">
 
 		<div class="stepDescription">
-			<p> These pinch rollers are in <strong>incorrect</strong> positions. </p>
+			<p>
+				<span class="material-icons">error_outline</span>
+				These pinch rollers are in <strong>incorrect</strong> positions.
+		    </p>
 			<p> As you can see, the pinch rollers will <strong>not</strong> be able to grab the material. </p>
 		</div>
 
@@ -183,7 +193,8 @@
 
 		<div class="stepDescription">
 			<p> Once the <strong>material</strong> and <strong>grit rollers</strong> are in place, <strong>raise the loading lever</strong>.</p>
-			<p> Your material is now loaded and clamped in place! </p>
+			<p class="correct"> <span class="material-icons-outlined">check_circle</span>
+			 Your material is now loaded and clamped in place! </p>
 
 		</div>
 
