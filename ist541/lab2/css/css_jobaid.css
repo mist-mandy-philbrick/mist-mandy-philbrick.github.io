@@ -80,7 +80,7 @@ h1, h2, h3 {
 .stepTitle_THREE{
 	padding:10px;
 	text-align:left;
-	background-color:#E66D6E;
+	background-color:#EE9D9D;
 	font-weight: bold;
 	font-size: 130%; 
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
@@ -107,7 +107,7 @@ h1, h2, h3 {
 }
 
 .incorrect {
-	background-color: #E66D6E;
+	background-color: #EE9D9D;
 	padding:20px;
 	border-radius:20px;
 }
@@ -123,6 +123,8 @@ h1, h2, h3 {
 	color: #404040;
 	vertical-align: middle
 }
+
+.red { background-color: aqua}
 
 strong {
   font-weight: 800;
