@@ -5,26 +5,31 @@ body {
 	text-align: center;
 	background-color: #FFF9EA;   /* background color */
 	font-family: Verdana,Geneva,sans-serif;
-	font-size: 80%;
+	font-size: 90%;
 	flex-wrap: wrap;
  
 }
 
 a {
 	padding: 15px;
-	margin: 5px;
-	font-size: 125%;
+	margin: 6px;
+	font-size: 130%;
 	background-color: #66EEEE; 
-	color: #4190C4;
+	color: #31749F;
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
 	flex-wrap:wrap;
-	padding-radius: 100;
+	border-radius: 40;
 }
 
 a:hover {
 	font-size:150%;
 	background-color: #FF6308; 
 	color: #404040; 
+}
+
+h2, h3 {
+	font-family: 'Arimo', sans-serif;
+	font-size: 170%;
 }
 
 #wrapper {
