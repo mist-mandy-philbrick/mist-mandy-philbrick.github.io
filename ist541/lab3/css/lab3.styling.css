@@ -10,6 +10,12 @@ body {
  
 }
 
+#menu {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
 a {
 	padding: 15px;
 	margin: 6px;
@@ -17,8 +23,7 @@ a {
 	background-color: #66EEEE; 
 	color: #31749F;
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
-	flex-wrap:wrap;
-	border-radius: 40;
+	border-radius: 5px;
 }
 
 a:hover {
@@ -27,9 +32,14 @@ a:hover {
 	color: #404040; 
 }
 
-h2, h3 {
+h2 {
 	font-family: 'Arimo', sans-serif;
 	font-size: 170%;
+}
+
+h3 {
+	font-family: 'Arimo', sans-serif;
+	font-size: 140%;
 }
 
 #wrapper {
