@@ -23,7 +23,7 @@ body {
    flex-wrap: wrap;
 }
 
-a {
+a.one {
 	padding: 15px;
 	margin: 3px;
 	font-size: 125%;
@@ -33,7 +33,7 @@ a {
 	border-radius: 5px;
 }
 
-a:hover {
+a.one:hover {
 	font-size:180%;
 	background-color: #A3FFFB; 
 	color: #404040; 
@@ -41,6 +41,23 @@ a:hover {
 	border-radius: 5px;
 }
 
+a.two {
+	padding: 10px;
+	margin: 3px;
+	font-size: 100%;
+	background-color:  #FEF5D5; 
+	color:  #404040;
+	border-radius: 5px;
+	
+}
+
+a.two:hover {
+	font-size:100%;
+	background-color: #A3FFFB; 
+	color: #404040; 
+	border-radius: 5px;
+	
+}
 
 
 table {
