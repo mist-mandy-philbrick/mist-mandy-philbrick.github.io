@@ -1,23 +1,39 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-image: url("../img/Smaller_AdobeStock_536689412_Rolls_of_Vinyl.jpg");   /* background image*/
+	color: #444;          /* text color for the entire document */
+	font-size: 12px;
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+
 #wrapper {
 width: 900px;
 margin: 0 auto;
 text-align: center;
 }
 
- #koala_image {
+ #loading_lever_image {
 border: black 5px solid;
+width: 500px;
 }
  
  #koala_eating {
 display: none; /* hides content */
 border: black 5px solid;
+width: 465px; 
 }
 
 .choices {
 cursor: pointer;
+}
+
+h1, h2, h3 {
+	background-color:#FEF5D5;
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px;
 }
 
 

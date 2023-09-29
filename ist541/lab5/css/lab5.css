@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("../img/Smaller_AdobeStock_536689412_Rolls_of_Vinyl.jpg");   /* background image*/
+	color: #444;          /* text color for the entire document */
+	font-size: 12px;
+	font-family:Verdana, Geneva, sans-serif;
+	border-radius: 5px;	
+}
+
+#wrapper {
+width: 900px;
+margin: 0 auto;
+text-align: center;
+}
+
+ #loading_lever_image {
+border: black 5px solid;
+width: 500px;
+}
+ 
+ #lower_lever {
+display: none; /* hides content */
+border: black 5px solid;
+width: 465px; 
+}
+
+#operation_panel {
+display: none; /* hides content */
+border: black 5px solid;
+width: 465px; 	
+	
+}
+
+#unsetup { 
+display: none; /* hides content */
+border: black 5px solid;
+width: 465px; 	
+}
+
+.choices {
+cursor: pointer;
+}
+
+h1 {
+	text-align: left;
+}
+
+h1.one {
+	text-align: center;
+	display: inline-block;
+	padding: 8px;
+}
+
+h1, h2, h3, p {
+	background-color:#FEF5D5;
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px; 
+	padding: 8px;
+}
+
+h2, h3 {
+	display: inline-block;
+	padding: 10px; 
+	background-color:#E0FFFD
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+}
+
+button {
+	padding:10px 20px;
+	margin: 5px;
+	color: #444;         
+	font-size: 12px;
+	font-family:Verdana, Geneva, sans-serif;
+
+}
+
+strong {
+  font-weight: 800;
+}
+
+
+td {
+	
+	background-color: white;  /* sets background color for table cells*/
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px;
+	font-size: 150%;
+	
+}
+
+table {
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px;
+	margin:0 auto;  /* centers table*/
+	
+	
+}
+
+
+
+
+
+
+
+
