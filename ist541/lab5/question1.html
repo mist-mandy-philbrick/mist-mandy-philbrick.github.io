@@ -19,17 +19,17 @@
 <h3>Click on one of the following choices:</h3>
 <br>
 		
-<h2 onclick="wrongAnswer1()" class="choices"> Purple </h2>
+<h2 id="purple" onclick="wrongAnswer1()" class="choices"> Purple </h2>
 <br>
 	
-<h2 onclick="wrongAnswer1()" class="choices"> Red </h2>
+<h2 id="red" onclick="wrongAnswer1()" class="choices"> Red </h2>
 
 <div onmouseover="mouseOver(this)"
 	  onmouseout="mouseOut (this)">
 <h2 onclick="rightAnswer()" class="choices"> Blue </h2>
 </div> <!--closing turn blue onMouseoverdiv-->
 	
-<h2 onclick="wrongAnswer1()" class="choices"> Yellow </h2>
+<h2 id="yellow" onclick="wrongAnswer1()" class="choices"> Yellow </h2>
 	
 
 <div id="feedback"></div>
@@ -83,7 +83,8 @@
 	<br>
 	
 <div id="feedback1"> </div>
-<video id="unsetup" source src="video/Unsetup.mp4"  />
+
+<video id="unsetup" controls> <source src="video/Unsetup.mp4" type="video/mp4" />
 	HTML5 Video not supported
 	</video>
 		<br>

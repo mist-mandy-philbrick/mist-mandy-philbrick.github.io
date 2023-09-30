@@ -88,7 +88,6 @@ strong {
 
 
 td {
-	
 	background-color: white;  /* sets background color for table cells*/
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
 	border-radius: 5px;
@@ -99,9 +98,19 @@ td {
 table {
 	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
 	border-radius: 5px;
-	margin:0 auto;  /* centers table*/
-	
-	
+	margin:0 auto;  /* centers table*/	
+}
+
+#purple:hover {
+	color: #CF52FF;
+}
+
+#red:hover {
+	color: #FF2D30;
+}
+
+#yellow:hover {
+	color: #FDF503;
 }
 
 
