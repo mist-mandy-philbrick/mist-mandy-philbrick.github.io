@@ -3,16 +3,64 @@
 <head>
 <meta charset="utf-8">
 <title>lab6</title>
+	
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+<link href="css/hotspot.css" rel="stylesheet" type="text/css">	
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="js/hotspot.js"></script>
+
 </head>
 
 <body>
 	
-<div id="wrapper">       
- <h2>What do you press and hold to turn off the vinyl cutter? </h2>
- <h3> Click on it! </h3>
- <div id="feedback"></div>
- <img src="img/power.blue.on.vinyl.cutter.PNG" width="650" alt="operation_panel"/>
- <br><br>
+<div id="wrapper">
+	<br>
+<h3><strong>Click on operation panel parts</strong> to learn how they help you close down the vinyl cutter. </h3>
+<h3><strong>Questions to consider:</strong></h3>
+	<br>
+ <h4> What do you press and hold to turn off the vinyl cutter? </h4>
+ <h4> In what area will you see 'UNSETUP' appear? </h4>
+<h4> What buttons allow you to scroll through options to find 'UNSETUP'?</h4>
+<h4> What button lets you select 'UNSETUP'?</h4>
+	
+     <div id="myModal" class="modal" tabindex="-1">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Feedback</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <div id="feedback"></div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+	
+ <img src="img/power.blue.on.vinyl.cutter.PNG" width="650" alt="operation_panel" usemap="#Map"/>
+	
+ <map name="Map">
+	 
+   <area id="Display" shape="poly" coords="327,95,495,130,480,167,307,127" href="#" alt="Display" title="Display">
+																						 
+   <area id="Power_button" shape="poly" coords="320,417,361,424,353,457,309,446" href="#" alt="Power button" title="Power button">
+	 
+   <area id="Enter_button" shape="poly" coords="353,353,389,365,375,397,343,383" href="#" alt="Enter button" title="Enter button">
+	 
+   <area id="up_cursor" shape="poly" coords="328,216,371,233,355,258,323,250" href="#" alt="Up cursor" title="Up cursor">
+	 
+   <area id="down_cursor" shape="poly" coords="295,283,340,298,323,321,290,311" href="#" alt="Down cursor" title="Down cursor">
+	 
+ </map>
+	
+<br><br>
  <div>Roland GS-24 Vinyl Cutter Operation Panel</div>
 </div><!--closing wrapper-->
 
