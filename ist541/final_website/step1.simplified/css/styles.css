@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url("../img/Smaller_AdobeStock_536689412_Rolls_of_Vinyl.jpg");   /* background image*/
+	color: #444;          /* text color for the entire document */
+	font-size: 12px;
+	font-family:Verdana, Geneva, sans-serif;
+	
+}
+
+#wrapper {
+	width:900px;
+	margin:0 auto;         /* centers wrapper */
+ 	text-align:center;
+	background-color: rgba(255, 255, 255, 0.8);  /* creates white background with 80% opacity */
+	border-radius: 5px; 
+}
+
+.menu {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+a {
+	padding: 7px;
+	margin: 4px;
+	font-size: 95%;
+	background-color: #FFCCA7; 
+	color: #404040; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 3px;
+}
+
+a:hover {
+	font-size:100%;
+	background-color: #66EEEE;
+	color: #404040; 
+}
+
+a.one {
+	padding: 10px;
+	margin: 5px;
+	font-size: 90%;
+	background-color: #66EEEE; 
+	color: #31749F; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 4px;
+}
+
+a.one:hover {
+	font-size:95%;
+	background-color: #FFCCA7;
+	color: #404040; 
+}
+a.two {
+	padding: 8px;
+	margin: 2px;
+	font-size: 100%;
+	background-color:  #FEF5D5; 
+	color:  #404040;
+	border-radius: 4px;
+	font-weight: normal; 
+	
+}
+
+a.two:hover {
+	font-size:100%;
+	background-color: #A3FFFB; 
+	color: #404040; 
+	border-radius: 5px;
+	
+}
+
+
+table {
+	margin:0 auto;  /* centers table*/
+}
+
+td {
+	
+	background-color: white;  /* sets background color for table cells*/
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px;
+	font-size: 150%;
+	
+}
+
+table {
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 5px;
+	
+	
+}
+
+h1, h2 { 
+	text-align:center;     /* centers h1 and h2 content */
+}
+
+h1 {
+	font-size: 220%;
+}
+
+audio { 
+	width:200px;   /* sets the width of the audio controls */
+}
+
+strong {
+  font-weight: 800;
+}
+
+
+

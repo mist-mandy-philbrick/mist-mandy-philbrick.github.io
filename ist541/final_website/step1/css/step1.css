@@ -1,0 +1,238 @@
+/* CSS Document */
+/* All comments go between the front slash and asterisk symbols */
+
+body {
+	background-color: #FFF9EA;   /* background color */
+	color: #444;          /* text color for the entire page */
+	font-family: Verdana,Geneva,sans-serif; 
+	
+}
+
+#menu {
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+
+a {
+	padding: 7px;
+	margin: 4px;
+	font-size: 95%;
+	background-color: #FFCCA7; 
+	color: #404040; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 3px;
+}
+
+a:hover {
+	font-size:100%;
+	background-color: #66EEEE;
+	color: #404040; 
+}
+
+a.one {
+	padding: 10px;
+	margin: 5px;
+	font-size: 90%;
+	background-color: #66EEEE; 
+	color: #31749F; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 4px;
+}
+
+a.one:hover {
+	font-size:95%;
+	background-color: #FFCCA7;
+	color: #404040; 
+}
+
+a.two {
+	padding: 10px;
+	margin: 5px;
+	font-size: 100%;
+	background-color: #FFCCA7; 
+	color: #404040; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius: 4px;
+	display: flex;
+    flex-wrap: wrap;
+	display: inline-block;
+	justify-content: center;
+	text-align: center;
+}
+
+a.two:hover {
+	font-size:115%;
+	background-color: #66EEEE; 
+	color: #404040; 
+}
+
+a.three {
+	padding: 2px;
+	margin: 1px;
+	font-size: 80%;
+	background-color: #FFCCA7; 
+	color: #404040; 
+}
+
+a.three:hover {
+	font-size:85%;
+	background-color: #66EEEE;
+	color: #31749F; 
+}
+
+a.four {
+	padding: 8px;
+	margin: 4px;
+	font-size: 95%;
+	background-color: #FFFEAE; 
+	color: #404040; 
+}
+
+a.four:hover {
+	font-size:105%;
+	background-color: #66EEEE;
+	color: #31749F; 
+}
+
+h1.one {background-color: #66EEEE;
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+}
+
+h2.one { text-align: left
+}
+
+
+h2, h3 {
+	font-family: 'Arimo', sans-serif;
+}
+
+
+h1, h2, h3 { 
+	text-align:center; 
+	/* centers h1 and h2 content */
+}
+
+/* styles for the "wrapper" div, notice that "wrapper" is preceded by "#" */
+#wrapper {
+	width: 75%;
+	margin: 0 auto;    /* centers wrapper */
+}
+
+#feedback {
+	background:#FFCCA7; /* background color */
+	padding: 20px; 
+    font-size: 125%;
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+	border-radius:20px;
+	color:#31749F;
+}
+
+
+/* styles for the "stepTitle" class, notice that "stepTitle" is preceded by a dot */
+.stepTitle{
+	padding:10px;
+	text-align:left;
+	background-color:#66EEEE;
+	font-weight: bold;
+	font-size: 150%; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+ }
+
+.stepContent{ 
+	background-color: white;
+	padding:7px;
+	font-size: 120%;
+	display: flex; /* creates multiple column layout */
+	flex-wrap:wrap;
+	justify-content: center;
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+}
+
+.stepDescription {
+	width:55%;
+	padding:5px;
+	line-height:145%;
+}
+
+.stepImage {
+	width:40%;	
+	padding:5px;
+	text-align: center;
+	font-size: 90%;
+	font-family: 'Arimo', sans-serif;
+
+}
+
+.stepImage img {
+    width:100%;
+    height:auto;
+}
+
+.stepTitle_TWO{
+	padding:10px;
+	text-align:left;
+	background-color:#7CEE94;
+	font-weight: bold;
+	font-size: 130%; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+ }
+.stepTitle_THREE{
+	padding:10px;
+	text-align:left;
+	background-color:#EE9D9D;
+	font-weight: bold;
+	font-size: 130%; 
+	box-shadow: 0 4px 6px 0 gray, 0 6px 10px 0 gray;
+ }
+
+
+.stepImage_TWO {
+	width:40%;	
+	padding:7px;
+	text-align: center;
+
+}
+
+.stepImage_TWO img {
+    width:55%;
+    height:auto;
+	align-content: center
+}
+
+.correct {
+	background-color: #7CEE94;
+	padding:20px;
+	border-radius:20px;
+}
+
+.incorrect {
+	background-color: #EE9D9D;
+	padding:20px;
+	border-radius:20px;
+}
+.material-icons {
+	font-size: 2.5em;
+	color: #404040;
+	vertical-align: middle
+	
+}
+
+.material-icons-outlined {
+	font-size: 2.5em;
+	color: #404040;
+	vertical-align: middle
+}
+
+.red { background-color: aqua}
+
+strong {
+  font-weight: 800;
+}
+
+img.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+

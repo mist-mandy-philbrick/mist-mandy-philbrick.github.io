@@ -1,0 +1,178 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Understanding Check-In Questions</title>
+	<link href="questions/css/lab5.css" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+<div id="wrapper">
+	<br>
+		<br>
+		<h1> <a class="one" href="index.html"> Basic Vinyl Cutting Home </a> </h1>
+		<br>
+		
+<div id="menu">	
+		<a href="step1.html"> Step 1: Load Material</a>
+		<a href="step2.html"> Step 2: Set Up Machine </a>
+		<a href="step3.html"> Step 3: Direct Cutting </a>
+		<a href="step4.html"> Step 4: Remove Material </a>
+		<a href="step5.html"> Step 5: Turn Machine Off</a>
+		<br>
+		<br>
+		<a href="questions.html"> Understanding Check-In</a>
+		<a href="manual.html"> Vinyl Cutter Manual</a>
+	</div> <!--closing div ide menu-->
+	<br>
+	<br>
+	
+<h1 class="two"> Understanding Check-In Questions</h1>
+	<br>
+	
+
+	
+<h1 class="three"> Question 1: </h1>
+<h1 class="one"> What color does the power button turn to indicate that the vinyl cutter is on?</h1>
+	<br>
+	
+<h3>Click on one of the following choices:</h3>
+<br>
+		
+<h2 id="purple" onclick="wrongAnswer1()" class="choices"> Purple </h2>
+<br>
+	
+<h2 id="red" onclick="wrongAnswer1()" class="choices"> Red </h2>
+
+<div onmouseover="mouseOver(this)"
+	  onmouseout="mouseOut (this)">
+<h2 onclick="rightAnswer()" class="choices"> Blue </h2>
+</div> <!--closing turn blue onMouseoverdiv-->
+	
+<h2 id="yellow" onclick="wrongAnswer1()" class="choices"> Yellow </h2>
+	
+
+<div id="feedback"></div>
+<img id="operation_panel" src="questions/img/power.blue.on.vinyl.cutter.PNG" />
+	
+	<br>
+	<br>
+	<br>
+	<br>
+	
+	
+<h1 class="three"> Question 2:</h1> 
+	  <h1 class="one"> After cutting is complete (and you've sent the cutting carriage back to its home position), what do you gently do to the loading lever to release your material? </h1>
+	
+ <h3 id="hint">Hover over the image below to find out!</h3>
+	<br>
+ <img onmouseenter="showAnswer()" id="loading_lever_image"  src="questions/img/Raise_Loading_Lever_Capture.PNG"   />
+<img onmouseleave="hideAnswer()" id="lower_lever" src="questions/img/Lower_Loading_Lever_Capture.PNG" />
+  <div id="answer"></div>
+  <!-- This is a placeholder to display the answer--> 
+	
+	<br>
+	<br>
+	<br>
+	<br>
+
+	
+<h1 class="three">Question 3: </h1>
+<h1 class="one"> When you are ready to remove material from the vinyl cutter, which "Menu" item should you select to send the cutting carriage back to its home position? </h1>
+	
+<h3> Click on the menu display option to find out!</h3>
+	
+<table border="1">
+<tr>
+   
+	<td> 
+      <img onclick="wrongAnswer3()" class="choices" width="100%" src="questions/img/ORIGIN.SET.PNG" />
+        </td> 
+<td>
+	<img onclick="rightAnswer1()" class="choices" width="100%" src="questions/img/Removing.Material.UNSETUP.Display.PNG" /> 
+  </td>
+        
+	<td>
+       <img onclick="wrongAnswer3()" class="choices" width="100%" src="questions/img/Piece.Vinyl.Cutter.PNG" />
+      </td> 
+	
+	</tr>
+
+   </table> 
+	<br>
+	<br>
+	
+<div id="feedback1"> </div>
+
+<video id="unsetup" controls> <source src="questions/video/Unsetup.mp4" type="video/mp4" />
+	HTML5 Video not supported
+	</video>
+		<br>
+		<br>
+	<h2>When you're ready visit <a href="manual.html"> Vinyl Cutter Manual</a></h2>
+		<br>
+	    <br>
+
+	<p>Instructions drawn from:
+	<a href="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_USE_EN_09_7_1.html" target="_blank"> Roland GS-24 User's Manual</a> </p>
+	
+		
+	<p> Background image: Adobe Stock Image by Svetliy, Edu. License </p>
+  
+</div>
+	
+<!-- closing  “wrapper” -->
+	<script>
+		
+function mouseOver(element) {
+	element.style.color='blue';
+	
+}
+
+function mouseOut (element) {
+	element.style.color= '#444';
+}
+		
+	
+ function showAnswer() {
+	   $("#loading_lever_image").hide();
+	   $("#lower_lever").show();
+	   $("#answer").html("<h2>Lower the loading lever to release your material!</h2>");
+	}
+
+function hideAnswer() {
+	   $("#loading_lever_image").show();
+	   $("#lower_lever").hide();
+	   $("#answer").html("");  
+	}
+		
+function rightAnswer(){
+         $("#feedback").html("<h2 style='color:green'> Correct! The power button turns blue when you turn on the vinyl cutter.</h2>");
+         $("#operation_panel").show();
+      }
+	
+	 function wrongAnswer1(){
+      $("#feedback").html("<h2 style='color:red'> Not quite, let's try again! </h2>");
+      $("#operation_panel").hide();
+   }
+		
+function rightAnswer1(){
+         $("#feedback1").html("<h2 style='color:green'> Well done! Selecting ‘UNSETUP’ sends the cutting carriage home.</h2>");
+         $("#unsetup").show();
+      }
+
+ function wrongAnswer3(){
+      $("#feedback1").html("<h2 style='color:red'> Not quite, let's try again! </h2>");
+	 $("#unsetup").hide();
+ }
+		
+		
+
+
+</script>
+	
+
+
+</body>
+</html>
