@@ -1580,11 +1580,13 @@
           <links>
             <slidelink slideid="_player.6f6PdP3wYZR.6QDMGqiSqHK" displaytext="Title Slide: Vinyl Cutter Safety" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6DzujzWRHIp" displaytext="Video: Vinyl Cutter Safety" expand="false" type="slide" />
+            <slidelink slideid="_player.6f6PdP3wYZR.6YJBEuQePWV" displaytext="Prepare to Review" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6PjYNsygFjn" displaytext="Protect Your Fingers: Part 1" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6fn451hjrcy" displaytext="Protect Your Fingers: Part 2" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.5qmHCvfKIf5" displaytext="Force Adjustments and Test Cuts" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.67jys1HEFwu" displaytext="Protect the Vinyl Cutter" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.5jQ9H7jcPYw" displaytext="Protect the Environment" expand="false" type="slide" />
+            <slidelink slideid="_player.6f6PdP3wYZR.5mSbZhjtZmb" displaytext="Understanding Check-In Questions Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6CZQs5uwclY" displaytext="Understanding Check-In #1" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.66KL7rlQxM6" displaytext="Understanding Check-In #2" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6Y6etHui94t" displaytext="Understanding Check-In #3" expand="false" type="slide" />
@@ -1603,8 +1605,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter Users Manual" />
-      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Safety.docx" image="story_content/6GniVnQEMAf.png" title="Video Script: &amp;quot;Vinyl Cutter Safety&amp;quot;" />
-      <resource url="story_content/external_files/Vinyl_Cutter_Safety_Main_Points.docx" image="story_content/63LZEGzP0NJ.png" title="Vinyl Cutter Safety Main Points" />
+      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Safety.docx" image="story_content/6RN1hVPfYqZ.png" title="Video Script: &amp;quot;Vinyl Cutter Safety&amp;quot;" />
+      <resource url="story_content/external_files/Vinyl_Cutter_Safety_Main_Points.docx" image="story_content/5XzQdI44xlY.png" title="Vinyl Cutter Safety Main Points" />
     </resources>
   </resource_data>
   <transcript_data />
