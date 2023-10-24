@@ -1584,6 +1584,7 @@
             <slidelink slideid="_player.6FtTQBD9VmR.5tAGXWC5NMR" displaytext="Vinyl Cutter Front, Labeled" expand="false" type="slide" />
             <slidelink slideid="_player.6FtTQBD9VmR.5wgHnuYku6m" displaytext="Vinyl Cutter Back, Labeled" expand="false" type="slide" />
             <slidelink slideid="_player.6FtTQBD9VmR.6Ahae12DDe4" displaytext="Vinyl Cutter Operation Panel, Labeled" expand="false" type="slide" />
+            <slidelink slideid="_player.6FtTQBD9VmR.6Dq0lk7hoUg" displaytext="Understanding Check-In Questions Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6FtTQBD9VmR.5VO5tcVpa5d" displaytext="Understanding Check-In #1" expand="false" type="slide" />
             <slidelink slideid="_player.6FtTQBD9VmR.6YasYOKYflE" displaytext="Understanding Check-In #2" expand="false" type="slide" />
             <slidelink slideid="_player.6FtTQBD9VmR.5XK2jFNHp9q" displaytext="Understanding Check-In #3" expand="false" type="slide" />
@@ -1601,8 +1602,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Verdana' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter Users Manual" />
-      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Parts_and_Purposes.docx" image="story_content/6NOtl3Ud3dr.png" title="Video Script: Vinyl Cutter Parts and Their Purposes" />
-      <resource url="story_content/external_files/Main_Points_Vinyl_Cutter_Parts_and_Their_Purposes.docx" image="story_content/5W8x9ANs9X2.png" title="Main Points: Vinyl Cutter Parts and Their Purposes" />
+      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Parts_and_Purposes.pdf" image="story_content/6D6sUABKPGL.png" title="Video Script: Vinyl Cutter Parts and Their Purposes" />
+      <resource url="story_content/external_files/Vinyl_Cutter_Parts_and_Their_Purposes_Main_Points.pdf" image="story_content/5nRvE3fPSgy.png" title="Main Points: Vinyl Cutter Parts and Their Purposes" />
     </resources>
   </resource_data>
   <transcript_data />
