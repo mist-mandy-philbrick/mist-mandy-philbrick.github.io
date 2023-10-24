@@ -18,9 +18,9 @@ $( function() {
          $("#feedback").html("Great job! Once you see 'UNSETUP' in the display, you can select the <strong>'ENTER' button</strong> to send the cutting carriage home.");
 	  }
 		  
-	  if ($(this).attr("id") == "up") {
+	  if ($(this).attr("id") == "menu") {
          $("#feedback").css("color","#31749F");
-         $("#feedback").html("Great job! The <strong>'up' cursor</strong> allows you to scroll through options until you find 'UNSETUP.'");
+         $("#feedback").html("Great job! The <strong>menu button</strong> allows you to scroll through options until you find 'UNSETUP.'");
 	}
 		
 	if ($(this).attr("id") == "down") {
