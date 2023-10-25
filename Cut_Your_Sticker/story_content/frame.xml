@@ -1576,7 +1576,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6HExiRqRGOO" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6HExiRqRGOO" displaytext="Cut Your Sticker" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6HExiRqRGOO.6B9ETJ6uQGX" displaytext="Title Slide: Cut Your Sticker" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5yx9a70ZJZL" displaytext="Video: Cut Your Sticker" expand="false" type="slide" />
@@ -1620,8 +1620,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/6HSnfggZjpf.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
-      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/6gwOYLGl1Ps.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
+      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/6TdJsv6AqJb.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
+      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/63QiNVf0y0C.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
     </resources>
   </resource_data>
   <transcript_data />
