@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns10111100111" font="Lato" controllayout="npnxnanbsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="pxabnsnfns10111100111" font="Lato" controllayout="pxabnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="npxnabnsnfns10111100111" font="Lato" controllayout="npxnabnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="npnxnanbnsnfns10111100111" font="Lato" controllayout="npnxnanbnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="pxabnsnfns10111100110" font="Lato" controllayout="pxabnsnfns10111100110" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
+    <layout name="npnxnanbsnfns10110100111" font="Lato" controllayout="npnxnanbsnfns10110100111" colorscheme="pxabnsnfns10110100111" string_table="pxabnsnfns10110100111" />
+    <layout name="pxabnsnfns10110100111" font="Lato" controllayout="pxabnsnfns10110100111" colorscheme="pxabnsnfns10110100111" string_table="pxabnsnfns10110100111" />
+    <layout name="npxnabnsnfns10110100111" font="Lato" controllayout="npxnabnsnfns10110100111" colorscheme="pxabnsnfns10110100111" string_table="pxabnsnfns10110100111" />
+    <layout name="npnxnanbnsnfns10110100111" font="Lato" controllayout="npnxnanbnsnfns10110100111" colorscheme="pxabnsnfns10110100111" string_table="pxabnsnfns10110100111" />
+    <layout name="pxabnsnfns10110100110" font="Lato" controllayout="pxabnsnfns10110100110" colorscheme="pxabnsnfns10110100111" string_table="pxabnsnfns10110100111" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="false">
             <options />
           </option>
-          <option name="sidebar_enabled" value="true">
+          <option name="sidebar_enabled" value="false">
             <options>
               <option name="sidebarpos" value="left" />
               <option name="closed" value="false" />
@@ -28,7 +28,7 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="true" group="linkright" />
-              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
@@ -93,7 +93,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111100111">
+    <control_layout name="npnxnanbsnfns10110100111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -111,14 +111,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111100111">
+    <control_layout name="pxabnsnfns10110100111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -136,14 +136,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111100111">
+    <control_layout name="npxnabnsnfns10110100111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -161,14 +161,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111100111">
+    <control_layout name="npnxnanbnsnfns10110100111">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -186,14 +186,14 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111100110">
+    <control_layout name="pxabnsnfns10110100110">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
       <control name="replay" enabled="true" />
@@ -211,7 +211,7 @@
       <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
-      <control name="outline" enabled="true">
+      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="true" />
         </controls>
@@ -220,7 +220,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111100111">
+    <colorscheme name="pxabnsnfns10110100111">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1397,7 +1397,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111100111">
+    <string_table name="pxabnsnfns10110100111">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1607,42 +1607,15 @@
         </slidelink>
       </links>
     </outline>
-    <search>
-      <slidetext slideid="6dCEMykvUcb.62Y6U5MWYG5" slidebank="false" type="slide"> prepare your file  next next next  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6BgFdRaBk1Y" slidebank="false" type="slide"> next next next back back back back back back back     prepare your file: transfer to adobe illustrator (part 1/4)</slidetext>
-      <slidetext slideid="6dCEMykvUcb.5yJ0cD4nekl" slidebank="false" type="slide"> next next next back back back back back back back     prepare your file: adobe illustrator adjustments (part 2/4)</slidetext>
-      <slidetext slideid="6dCEMykvUcb.5h3jSYw5Iyk" slidebank="false" type="slide"> next next next back back back back back back back     prepare your file: send to cutstudio (part 3/4)</slidetext>
-      <slidetext slideid="6dCEMykvUcb.6fCC3IJ5hdW" slidebank="false" type="slide"> next next next back back back back back back back     prepare your file: set up in cutstudio (part 4/4)</slidetext>
-      <slidetext slideid="6dCEMykvUcb.6iI5KbJ8Mj6" slidebank="false" type="slide"> prepare your file: prepare to review next next next back back back back back back back   review slides  we’ll now review the steps to follow when preparing your file for vinyl cutting using adobe illustrator and cutstudio. after you review, you’ll have the chance to check-in on your understanding. select the “next” button when you are ready to continue.  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6BjCMkNaBIK" slidebank="false" type="slide"> part 1: transfer to adobe illustrator  prepare your file: part 1: transfer to adobe illustrator next next next back back back back back back back   </slidetext>
-      <slidetext slideid="6dCEMykvUcb.5bPb7A1a2qC" slidebank="false" type="slide"> prepare your file: transfer to adobe illustrator (part 1/4) “transfer to adobe illustrator” steps  1. click the       icon to open adobe illustrator.  2. select “file” from the top menu and click “new.” 3. select one of the custom preset sizes and select “create.” 4. navigate back to the “choose a vector file” module. open the google drive link that holds multiple vector file images. 5. find your chosen image. click on the three dots that appear next to the title. select “download” from the menu that appears. 6. open the “file explorer” at the bottom of the screen and click “downloads.” 7. the most recent download that appears will be your chosen image. drag and drop that image onto the adobe illustrator artboard.   back back back back back back back next next next  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.5kpCWmm2P7b" slidebank="false" type="slide"> part 2: adobe illustrator adjustments  prepare your file: part 2: adobe illustrator adjustments next next next back back back back back back back   </slidetext>
-      <slidetext slideid="6dCEMykvUcb.5wpdZyevdg5" slidebank="false" type="slide"> prepare your file: adobe illustrator adjustments (part 2/4) ”adobe illustrator adjustments” steps  1. select your image by clicking “ctrl + a” on the pc keyboard (please see “prepare your file job aid for selection tool instructions linked in the final slide) 2. lock the aspect ratio (the ratio of height to width) by clicking the aspect ratio icon next to the dimensions. 3. type your desired height or width into the dimensions box. adobe illustrator will automatically resize the other dimension if the aspect ratio is locked. 4. drag and drop your image into the bottom left corner of the artboard. 5. adjust the “fill” and “stroke” (the outline) settings in the “properties” tab under “appearance.” 6. select “fill” and make it transparent by selecting the white box with a red line through it.  7. adjust the “stroke.” the default for stroke is transparent, so first give it a stroke, and then make it very thin - 0.001 inches.   back back back back back back back next next next  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6IoMZ6BI2t5" slidebank="false" type="slide">  part 3: send to cutstudio  prepare your file: part 3: send to cutstudio next next next back back back back back back back  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.64iIvgZWxdo" slidebank="false" type="slide"> prepare your file: send to cutstudio (part 3/4) ”send to cutstudio” steps  1. ensure the roland cutstudio extension is open in adobe illustrator. you may see it in the upper right side of your screen. 2. if you don’t see it, click “window” in the top menu bar, select “extensions,” and select “roland cutstudio” from the menu that appears. 3. if the section with “roland cutstudio” disappears at any time, click “window” in the top menu bar and select “properties” from the menu that appears.  4. ensure your design is selected by looking at the roland cutstudio preview box. if the image does not appear, you can select the design again by clicking “ctrl+a” or by using the selection tool. 5. select the gs-24 vinyl cutter in the roland cutstudio extension.  6. click on the capital “r” icon. cutstudio will load and your design will appear on the cutstudio screen.   back back back back back back back next next next  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6E6FnIMkmws" slidebank="false" type="slide">  part 4: set up in cutstudio  prepare your file: part 4: set up in cutstudio next next next back back back back back back back  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6S6bUiWxNoH" slidebank="false" type="slide"> prepare your file: set up in cutstudio (part 4/4) ”send to cutstudio” steps  1. select your image by clicking “ctrl +a.” 2. select the checkmark next to “keep aspect” to ensure the image doesn’t distort. 3. connect the vinyl cutter and the laptop with cutstudio open together with a usb cord.  4. select “file.” from the menu that appears, select “cutting setup.” 5. in the “cutting setup” window, select “roland gs-24.”   back back back back back back back next next next  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.63JoXAjdItA" slidebank="false" type="slide"> prepare your file: prepare for understanding check-in questions next next next back back back back back back back   understanding check-in questions  now let’s check in on your understanding. the following questions are intended to help you review the steps we’ve covered. select the “next” button when you are ready to continue.  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6nO7zRZqBIx" slidebank="false" type="slide">nice attempt, but not quite. let’s try again. feel free to review the ”transfer to adobe illustrator” video or slide if needed. try again try again try again try again try again try again try again nice attempt, but not quite. let’s try again. feel free to review the ”transfer to adobe illustrator” video or slide if needed. try again try again try again try again try again try again try again nice job! after you click the “ai” icon to open adobe illustrator, click “file.” from the menu that appears, click “new.” continue continue continue continue continue continue continue  select “file” from the top menu select “file” from the top menu select “file” from the top menu select “file” from the top menu select “file” from the top menu select “file” from the top menu click “window” and look for “extensions” in the menu that appears click “window” and look for “extensions” in the menu that appears click “window” and look for “extensions” in the menu that appears click “window” and look for “extensions” in the menu that appears click “window” and look for “extensions” in the menu that appears click “window” and look for “extensions” in the menu that appears select “edit” from the top menu  select “edit” from the top menu  select “edit” from the top menu  select “edit” from the top menu  select “edit” from the top menu  select “edit” from the top menu  after you open adobe illustrator, what step will you take next to open an artboard for your design?   prepare your file: understanding check-in #1 next next next back back back back back back back   understanding check-in   click the bubble next to your chosen answer to receive feedback.</slidetext>
-      <slidetext slideid="6dCEMykvUcb.5ax2ClUqQzP" slidebank="false" type="slide">not quite, where might you click to create an artboard? try again try again try again try again try again try again try again that's right! select “create” once you’ve picked the preset size that will work for your design. continue continue continue continue continue continue continue   prepare your file: understanding check-in #2 back back back back back back back next next next once you’ve selected a preset size, where do you click to open your artboard?  understanding check-in        click the area on the image to the right to receive feedback. </slidetext>
-      <slidetext slideid="6dCEMykvUcb.5VkQF1EHmiV" slidebank="false" type="slide">not quite, feel free to review the “adobe illustrator adjustments” video or slide to review if needed. try again try again try again try again try again try again try again that's right! clicking this area will lock the aspect ratio, ensuring that the ratio of height to width is maintained. continue continue continue continue continue continue continue   prepare your file: understanding check-in #3 back back back back back back back next next next clicking what area would have locked the aspect ratio and prevented distortion when the image was resized?  understanding check-in        click the area on the image to the right to receive feedback. </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6P6KDboD3FM" slidebank="false" type="slide">nice try, but not quite! let’s try again.  feel free to review the “adobe illustrator adjustments” video or slide if needed. try again try again try again try again try again try again try again well done! selecting the white box with a red line through it will make your “fill” transparent. this prepares your file to be read by the vinyl cutter. continue continue continue continue continue continue continue  the white box with a red line through it the white box with a red line through it the white box with a red line through it the white box with a red line through it the white box with a red line through it the white box with a red line through it the black box the black box the black box the black box the black box the black box the box with a file icon the box with a file icon the box with a file icon the box with a file icon the box with a file icon the box with a file icon to make the “fill” transparent, what box do you select?  understanding check-in  the paintbrush icon  the paintbrush icon  the paintbrush icon  the paintbrush icon  the paintbrush icon  the paintbrush icon  next next next back back back back back back back vinyl cutter safety: protect the environment  prepare your file: understanding check-in #4    click the bubble next to your chosen answer to receive feedback.</slidetext>
-      <slidetext slideid="6dCEMykvUcb.6FakcBFAbbe" slidebank="false" type="slide">nice try, but not quite! let’s try again.  feel free to review the “send to cutstudio” video or slide if needed. try again try again try again try again try again try again try again well done! if you don’t see the roland cutstudio extension, first select “window.” from the menu that appears, select “extensions.” then select “roland cutstudio” from the menu that appears. continue continue continue continue continue continue continue  file file file file file file window window window window window window if the roland cutstudio extension is not available when you open adobe illustrator, what do you select from the top menu in order to access “extensions?”  understanding check-in  edit edit edit edit edit edit next next next back back back back back back back vinyl cutter safety: protect the environment  prepare your file: understanding check-in #5    click the bubble next to your chosen answer to receive feedback.</slidetext>
-      <slidetext slideid="6dCEMykvUcb.5vCbvcfpOCy" slidebank="false" type="slide">nice try, but not quite! let’s try again. feel free to review the “adobe illustrator adjustments” and “set up in cutstudio” videos and slides if needed. try again try again try again try again try again try again try again well done! selecting “ctrl + a” on your keyboard selects your whole design. continue continue continue continue continue continue continue  ctrl + v ctrl + v ctrl + v ctrl + v ctrl + v ctrl + v ctrl + c ctrl + c ctrl + c ctrl + c ctrl + c ctrl + c ctrl + a ctrl + a ctrl + a ctrl + a ctrl + a ctrl + a what keyboard shortcut helps you select your file (in both adobe illustrator and cutstudio)?  understanding check-in  ctrl + z ctrl + z ctrl + z ctrl + z ctrl + z ctrl + z next next next back back back back back back back vinyl cutter safety: protect the environment  prepare your file: understanding check-in #6    click the bubble next to your chosen answer to receive feedback.</slidetext>
-      <slidetext slideid="6dCEMykvUcb.6JlSSGWhYEu" slidebank="false" type="slide">nice try, but not quite! let’s try again. feel free to review the “set up in cutstudio” video or slide if needed. try again try again try again try again try again try again try again well done! select “cutting setup” from the menu that appears when you click “file.” continue continue continue continue continue continue continue  cutting preview cutting preview cutting preview cutting preview cutting preview cutting preview cutting setup cutting setup cutting setup cutting setup cutting setup cutting setup print and cut print and cut print and cut print and cut print and cut print and cut after you’ve opened your image in cutstudio, what “file” menu item will you select to prepare your image for vinyl cutting?  understanding check-in  cutting cutting cutting cutting cutting cutting next next next back back back back back back back vinyl cutter safety: protect the environment  prepare your file: understanding check-in #7    click the bubble next to your chosen answer to receive feedback.</slidetext>
-      <slidetext slideid="6dCEMykvUcb.5llq6QMHEm2" slidebank="false" type="slide">nice attempt, but not quite. let’s try again.  feel free to review the “set up in cutstudio” video or slide if needed. try again try again try again try again try again try again try again nice attempt, but not quite. let’s try again.  feel free to review the ”set up in cutstudio” video or slide if needed. try again try again try again try again try again try again try again nice job! the usb connector allows you to share design data from your computer with the vinyl cutter. continue continue continue continue continue continue continue  the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector allows you to connect the vinyl cutter to your computer. this lets the vinyl cutter receive design instructions. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector connects the vinyl cutter to a power outlet. this allows the vinyl cutter to turn on. the usb connector displays various settings and menus. the usb connector displays various settings and menus. the usb connector displays various settings and menus. the usb connector displays various settings and menus. the usb connector displays various settings and menus. the usb connector displays various settings and menus.  click the bubble next to your chosen answer to receive feedback. what does the usb connector allow you to do?   prepare your file: understanding check-in #8 next next next back back back back back back back   understanding check-in </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6bAua0w6Yds" slidebank="false" type="slide"> prepare your file: congratulations! references references references back back back back back back back   great job completing the “prepare your file” module.  in the next module, we’ll cut our sticker! see you soon! well done!  </slidetext>
-      <slidetext slideid="6dCEMykvUcb.6NKqnQ0DTxG" slidebank="false" type="slide"> prepare your file: references to access the gs-24 user’s manual and the “prepare your file” job aid main please click on “resources” in the top right corner.  dmytro minasian. (n.d.). happy woman cartoon female blogger character working on laptop computer sitting at desk table [picture]. adobe stock images, education licensed. dmytro minasian. (n.d.). young man freelancer or student sitting on soft bean bag with laptop computer isolated on white [picture]. adobe stock images, education licensed. mariia. (n.d.). vinnytsia, ukraine - april 07, 2021: adobe illustrator logo [picture]. adobe stock images, education licensed.  roland dg corporation. (ed.) (2015). gs-24 user’s manual. https://files.rolanddga.com/files/gs-24_usersmanual/responsive_html5/index.htm#t=gs-24_use_en_03_3.html &lt;https://files.rolanddga.com/files/gs-24_usersmanual/responsive_html5/index.htm&gt; </slidetext>
-    </search>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Job_Aid_Prepare_Your_File.pdf" image="story_content/5pAjLItDI67.png" title="&amp;quot;Prepare Your File&amp;quot; Job Aid" />
-      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Transfer_to_Adobe_Illustrator.pdf" image="story_content/6i6FzGbYUhk.png" title="Part 1 Video Script: &amp;quot;Transfer to Adobe Illustrator&amp;quot;" />
-      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Adobe_Illustrator_Adjustments.pdf" image="story_content/5n72eENnUpf.png" title="Part 2 Video Script: &amp;quot;Adobe Illustrator Adjustments&amp;quot;" />
-      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/5nUOT7JsGOb.png" title="Part 3 Video Script: &amp;quot;Send to CutStudio&amp;quot;" />
-      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/5x5TMMStv3k.png" title="Part 4 Video Script: &amp;quot;Set Up in CutStudio&amp;quot;" />
+      <resource url="story_content/external_files/Job_Aid_Prepare_Your_File.pdf" image="story_content/5n7q1UZ5vfF.png" title="&amp;quot;Prepare Your File&amp;quot; Job Aid" />
+      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Transfer_to_Adobe_Illustrator.pdf" image="story_content/6jsxEm9xABv.png" title="Part 1 Video Script: &amp;quot;Transfer to Adobe Illustrator&amp;quot;" />
+      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Adobe_Illustrator_Adjustments.pdf" image="story_content/5feov3f1vuL.png" title="Part 2 Video Script: &amp;quot;Adobe Illustrator Adjustments&amp;quot;" />
+      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/6TiekIWFk7L.png" title="Part 3 Video Script: &amp;quot;Send to CutStudio&amp;quot;" />
+      <resource url="story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/6ZxbtSNEl0x.png" title="Part 4 Video Script: &amp;quot;Set Up in CutStudio&amp;quot;" />
     </resources>
   </resource_data>
   <transcript_data />
