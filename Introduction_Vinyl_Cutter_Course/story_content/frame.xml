@@ -1576,14 +1576,14 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6ns7jtIEXBv" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6ns7jtIEXBv" displaytext="Welcome Module" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6ns7jtIEXBv.6NAMmtjoVPP" displaytext="Title Slide: Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6ns7jtIEXBv.5r4acAcQhnX" displaytext="Video: Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6ns7jtIEXBv.5Z1ogcLQMN4" displaytext="Welcome Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6ns7jtIEXBv.6jTYjHRJF9t" displaytext="What You&amp;apos;ll Know" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns7jtIEXBv.5Ysx40IT0O1" displaytext="What You&amp;apos;ll Know How to Do" expand="false" type="slide" />
-            <slidelink slideid="_player.6ns7jtIEXBv.5gbAysp2QKa" displaytext="What You&amp;apos;ll Know How to Do" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns7jtIEXBv.5Ysx40IT0O1" displaytext="What You&amp;apos;ll Know How to Do (1/2)" expand="false" type="slide" />
+            <slidelink slideid="_player.6ns7jtIEXBv.5gbAysp2QKa" displaytext="What You&amp;apos;ll Know How to Do (2/2)" expand="false" type="slide" />
             <slidelink slideid="_player.6ns7jtIEXBv.6Tt1wuxNbiJ" displaytext="What&amp;apos;s Coming Next" expand="false" type="slide" />
             <slidelink slideid="_player.6ns7jtIEXBv.6m1oRQtj58t" displaytext="References" expand="false" type="slide" />
           </links>
@@ -1594,7 +1594,7 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Level_1_Badge_Vinyl_Cutter_Course_Learning_Objectives.pdf" image="story_content/5aWgf6u3DRC.png" title="Learning Objectives (What You&amp;#39;ll Know and Know How to Do)" />
+      <resource url="story_content/external_files/Level_1_Badge_Vinyl_Cutter_Course_Learning_Objectives.pdf" image="story_content/6D377wWOOy4.png" title="Learning Objectives (What You&amp;#39;ll Know and Know How to Do)" />
     </resources>
   </resource_data>
   <transcript_data />
