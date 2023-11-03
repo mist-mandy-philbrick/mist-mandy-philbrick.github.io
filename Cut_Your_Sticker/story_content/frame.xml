@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1621,8 +1621,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/5vjjJtTsZuw.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
-      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/6CvJLWjGnJa.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
+      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/5k5vqFXWoFk.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
+      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/6r27XRr43sC.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
     </resources>
   </resource_data>
   <transcript_data />
