@@ -1591,11 +1591,10 @@
             <slidelink slideid="_player.6f6PdP3wYZR.66KL7rlQxM6" displaytext="Understanding Check-In #2" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6Y6etHui94t" displaytext="Understanding Check-In #3" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6iBv6OUJB3S" displaytext="Understanding Check-In #4" expand="false" type="slide" />
-            <slidelink slideid="_player.6f6PdP3wYZR.6oqjXQSxgWM" displaytext="Understanding Check-In #5" expand="false" type="slide" />
-            <slidelink slideid="_player.6f6PdP3wYZR.5bPIsDDIC51" displaytext="Understanding Check-In #6" expand="false" type="slide" />
-            <slidelink slideid="_player.6f6PdP3wYZR.6IVM1yoEDED" displaytext="Understanding Check-In #7" expand="false" type="slide" />
+            <slidelink slideid="_player.6f6PdP3wYZR.5bPIsDDIC51" displaytext="Understanding Check-In #5" expand="false" type="slide" />
+            <slidelink slideid="_player.6f6PdP3wYZR.6IVM1yoEDED" displaytext="Understanding Check-In #6" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.5ymgv6btXap" displaytext="Main Points Review" expand="false" type="slide" />
-            <slidelink slideid="_player.6f6PdP3wYZR.6qsUv9XIC6B" displaytext="Vinyl Cutter Safety Module Completion Congratulations" expand="false" type="slide" />
+            <slidelink slideid="_player.6f6PdP3wYZR.6qsUv9XIC6B" displaytext="Completion Congratulations" expand="false" type="slide" />
             <slidelink slideid="_player.6f6PdP3wYZR.6YDbLyHg2HB" displaytext="References" expand="false" type="slide" />
           </links>
         </slidelink>
@@ -1605,8 +1604,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter Users Manual" />
-      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Safety.pdf" image="story_content/5hIiO2Gi6G9.png" title="Video Script: &amp;quot;Vinyl Cutter Safety&amp;quot;" />
-      <resource url="story_content/external_files/Vinyl_Cutter_Safety_Main_Points.pdf" image="story_content/6jc5ADJWpES.png" title="Vinyl Cutter Safety Main Points" />
+      <resource url="story_content/external_files/Video_Script_Vinyl_Cutter_Safety.pdf" image="story_content/5vkAL7ad1bj.png" title="Video Script: &amp;quot;Vinyl Cutter Safety&amp;quot;" />
+      <resource url="story_content/external_files/Vinyl_Cutter_Safety_Main_Points.pdf" image="story_content/5v9KeBsjWfa.png" title="Vinyl Cutter Safety Main Points" />
     </resources>
   </resource_data>
   <transcript_data />
