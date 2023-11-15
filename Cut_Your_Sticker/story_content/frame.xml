@@ -1600,7 +1600,6 @@
             <slidelink slideid="_player.6HExiRqRGOO.5paO1iIYIWn" displaytext="&amp;quot;Remove Your Material&amp;quot; Steps (8/9)" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.60m5BlpyGMB" displaytext="Title Page: Turn Vinyl Cutter Off (9/9)" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5ee4wgYzm8Z" displaytext="&amp;quot;Turn Vinyl Cutter Off&amp;quot; Step (9/9)" expand="false" type="slide" />
-            <slidelink slideid="_player.6HExiRqRGOO.6rjP75gpVSz" displaytext="Website Job Aid" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5rtFIIZCene" displaytext="Understanding Check-In Questions Introduction" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.6aPQsZy6IOH" displaytext="Understanding Check-In #1" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5vU4qkuoYoM" displaytext="Understanding Check-In #2" expand="false" type="slide" />
@@ -1611,6 +1610,7 @@
             <slidelink slideid="_player.6HExiRqRGOO.5v17VGUwA56" displaytext="Understanding Check-In #7" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5Ycs0Jvp7a5" displaytext="Understanding Check-In #8" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5kHL9YKrSPh" displaytext="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" expand="false" type="slide" />
+            <slidelink slideid="_player.6HExiRqRGOO.6rjP75gpVSz" displaytext="Website Job Aid" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.5WBrJuVmHWY" displaytext="Completion Congratulations" expand="false" type="slide" />
             <slidelink slideid="_player.6HExiRqRGOO.6Fm2EZ4sDre" displaytext="References" expand="false" type="slide" />
           </links>
@@ -1621,8 +1621,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/6lOhh1DQ7NU.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
-      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/6ECi7JJk8IR.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
+      <resource url="story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/6Y0ZxC1Mpg3.png" title="&amp;quot;Cut Your Sticker&amp;quot; Job Aid" />
+      <resource url="story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/6A6mh3waDdX.png" title="&amp;quot;Cut Your Sticker&amp;quot; Video Script" />
     </resources>
   </resource_data>
   <transcript_data />
