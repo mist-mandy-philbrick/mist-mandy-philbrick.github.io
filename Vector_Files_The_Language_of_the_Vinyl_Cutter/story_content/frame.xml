@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00011100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
   <layouts>
-    <layout name="npnxnanbsnfns10111100111" font="Lato" controllayout="npnxnanbsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="pxabnsnfns10111100111" font="Lato" controllayout="pxabnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="npxnabnsnfns10111100111" font="Lato" controllayout="npxnabnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="npnxnanbnsnfns10111100111" font="Lato" controllayout="npnxnanbnsnfns10111100111" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
-    <layout name="pxabnsnfns10111100110" font="Lato" controllayout="pxabnsnfns10111100110" colorscheme="pxabnsnfns10111100111" string_table="pxabnsnfns10111100111" />
+    <layout name="npnxnanbsnfns00011100111" font="Lato" controllayout="npnxnanbsnfns00011100111" colorscheme="pxabnsnfns00011100111" string_table="pxabnsnfns00011100111" />
+    <layout name="pxabnsnfns00011100111" font="Lato" controllayout="pxabnsnfns00011100111" colorscheme="pxabnsnfns00011100111" string_table="pxabnsnfns00011100111" />
+    <layout name="npxnabnsnfns00011100111" font="Lato" controllayout="npxnabnsnfns00011100111" colorscheme="pxabnsnfns00011100111" string_table="pxabnsnfns00011100111" />
+    <layout name="npnxnanbnsnfns00011100111" font="Lato" controllayout="npnxnanbnsnfns00011100111" colorscheme="pxabnsnfns00011100111" string_table="pxabnsnfns00011100111" />
+    <layout name="pxabnsnfns00011100110" font="Lato" controllayout="pxabnsnfns00011100110" colorscheme="pxabnsnfns00011100111" string_table="pxabnsnfns00011100111" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -59,14 +59,14 @@
       <optiongroup name="controls">
         <options>
           <option name="volume" value="true" />
-          <option name="seekbar" value="true">
+          <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
           <option name="pauseplay" value="true" />
-          <option name="replay" value="true" />
+          <option name="replay" value="false" />
           <option name="search" value="true" />
           <option name="closed_captions" value="true">
             <options>
@@ -93,10 +93,10 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10111100111">
+    <control_layout name="npnxnanbsnfns00011100111">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
@@ -118,10 +118,10 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111100111">
+    <control_layout name="pxabnsnfns00011100111">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
@@ -143,10 +143,10 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10111100111">
+    <control_layout name="npxnabnsnfns00011100111">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
@@ -168,10 +168,10 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10111100111">
+    <control_layout name="npnxnanbnsnfns00011100111">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
@@ -193,10 +193,10 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10111100110">
+    <control_layout name="pxabnsnfns00011100110">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
       <control name="pauseplay" enabled="true" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
@@ -220,7 +220,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111100111">
+    <colorscheme name="pxabnsnfns00011100111">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1397,7 +1397,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111100111">
+    <string_table name="pxabnsnfns00011100111">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1624,8 +1624,8 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="GS-24 Vinyl Cutter User&amp;#39;s Manual" />
-      <resource url="story_content/external_files/Video_Script_Vector_Files.pdf" image="story_content/63HzZWUUbg2.png" title="&amp;quot;Vector Files: The Language of the Vinyl Cutter&amp;quot; script" />
-      <resource url="story_content/external_files/Vector_Files_Main_Points.pdf" image="story_content/6kGix2Gdb7e.png" title="Vector Files Module Main Points" />
+      <resource url="story_content/external_files/Video_Script_Vector_Files.pdf" image="story_content/5pXga66zvXk.png" title="&amp;quot;Vector Files: The Language of the Vinyl Cutter&amp;quot; script" />
+      <resource url="story_content/external_files/Vector_Files_Main_Points.pdf" image="story_content/6Cv8HFh3rpG.png" title="Vector Files Module Main Points" />
     </resources>
   </resource_data>
   <transcript_data />
