@@ -1583,6 +1583,7 @@
             <slidelink slideid="_player.6em6mnoCXqu.6KIKfJDtgdZ" displaytext="What to Do If..." expand="false" type="slide" />
             <slidelink slideid="_player.6em6mnoCXqu.6Svr8vw9WIe" displaytext="Error Message List" expand="false" type="slide" />
             <slidelink slideid="_player.6em6mnoCXqu.6AMwlt7OpCj" displaytext="Ask for Help" expand="false" type="slide" />
+            <slidelink slideid="_player.6em6mnoCXqu.6U8DNo9ekWr" displaytext="Access Course Resources" expand="false" type="slide" />
             <slidelink slideid="_player.6em6mnoCXqu.6jMvi1V0yXX" displaytext="Completion Congratulations" expand="false" type="slide" />
             <slidelink slideid="_player.6em6mnoCXqu.5n5MIUVARu8" displaytext="References" expand="false" type="slide" />
           </links>
@@ -1593,6 +1594,34 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://files.rolanddga.com/Files/GS-24_UsersManual/Responsive_HTML5/index.htm#t=GS-24_index.html" image="story_content/url.png" title="Roland GS-24 Vinyl Cutter User&amp;#39;s Manual" />
+      <resource url="https://mist-mandy-philbrick.github.io/Introduction_Vinyl_Cutter_Course/story_content/external_files/Level_1_Badge_Vinyl_Cutter_Course_Learning_Objectives.pdf" image="story_content/url.png" title="Module 1: Learning Objectives" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Parts_and_Their_Purposes_Module/story_content/external_files/Vinyl_Cutter_Parts_and_Their_Purposes_Main_Points.pdf" image="story_content/url.png" title="Module 2 Main Points: Vinyl Cutter Parts and Their Purposes" />
+      <resource url="https://youtu.be/8nymCVwJYf8" image="story_content/url.png" title="Module 2 Video: Vinyl Cutter Parts and Their Purposes" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Parts_and_Their_Purposes_Module/story_content/external_files/Video_Script_Vinyl_Cutter_Parts_and_Purposes.pdf" image="story_content/url.png" title="Module 2 Video Script: Vinyl Cutter Parts and Their Purposes" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Materials_Module/story_content/external_files/Materials_You_Can_Use_with_the_Vinyl_Cutter_Main_Points.pdf" image="story_content/url.png" title="Module 3 Main Points: Materials You Can Use with the Vinyl Cutter" />
+      <resource url="https://youtu.be/AIND1jbz_YQ" image="story_content/url.png" title="Module 3 Video: Materials You Can Use with the Vinyl Cutter" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Materials_Module/story_content/external_files/Video_Script_Materials_You_Can_Use_with_the_Vinyl_Cutter.pdf" image="story_content/url.png" title="Module 3 Video Script: Materials You Can Use with the Vinyl Cutter" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Safety_Module/story_content/external_files/Vinyl_Cutter_Safety_Main_Points.pdf" image="story_content/url.png" title="Module 4 Main Points: Vinyl Cutter Safety" />
+      <resource url="https://youtu.be/P_75S9zbCqs" image="story_content/url.png" title="Module 4 Video: Vinyl Cutter Safety" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vinyl_Cutter_Safety_Module/story_content/external_files/Video_Script_Vinyl_Cutter_Safety.pdf" image="story_content/url.png" title="Module 4 Video Script: Vinyl Cutter Safety" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vector_Files_The_Language_of_the_Vinyl_Cutter/story_content/external_files/Vector_Files_Main_Points.pdf" image="story_content/url.png" title="Module 5 Main Points: Vector Files" />
+      <resource url="https://youtu.be/B9Ly1ryjNxs" image="story_content/url.png" title="Module 5 Video: Vector Files" />
+      <resource url="https://mist-mandy-philbrick.github.io/Vector_Files_The_Language_of_the_Vinyl_Cutter/story_content/external_files/Video_Script_Vector_Files.pdf" image="story_content/url.png" title="Module 5 Video Script: Vector Files" />
+      <resource url="https://mist-mandy-philbrick.github.io/Prepare_Your_File/story_content/external_files/Job_Aid_Prepare_Your_File.pdf" image="story_content/url.png" title="Module 7 Job Aid: Prepare Your File" />
+      <resource url="https://youtu.be/PbUDbMa-ZWQ" image="story_content/url.png" title="Module 7 Video (1/4): Transfer to Adobe Illustrator" />
+      <resource url="https://youtu.be/AA-ZYSkmGkA" image="story_content/url.png" title="Module 7 Video (2/4): Adobe Illustrator Adjustments" />
+      <resource url="https://youtu.be/L0EquQobvjI" image="story_content/url.png" title="Module 7 Video (3/4): Send to Cut Studio" />
+      <resource url="https://youtu.be/5ojBvZxyy4I" image="story_content/url.png" title="Module 7 Video (4/4): Set Up in CutStudio" />
+      <resource url="https://mist-mandy-philbrick.github.io/Prepare_Your_File/story_content/external_files/Video_Script_Prepare_Your_File_Transfer_to_Adobe_Illustrator.pdf" image="story_content/url.png" title="Module 7 Video Script (1/4): Transfer to Adobe Illustrator" />
+      <resource url="https://mist-mandy-philbrick.github.io/Prepare_Your_File/story_content/external_files/Video_Script_Prepare_Your_File_Adobe_Illustrator_Adjustments.pdf" image="story_content/url.png" title="Module 7 Video Script (2/4): Adobe Illustrator Adjustments" />
+      <resource url="https://mist-mandy-philbrick.github.io/Prepare_Your_File/story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/url.png" title="Module 7 Video Script (3/4): Send to CutStudio" />
+      <resource url="https://mist-mandy-philbrick.github.io/Prepare_Your_File/story_content/external_files/Video_Script_Prepare_Your_File_Send_to_CutStudio.pdf" image="story_content/url.png" title="Module 7 Video Script (4/4): Set Up in CutStudio" />
+      <resource url="https://mist-mandy-philbrick.github.io/Cut_Your_Sticker/story_content/external_files/Job_Aid_Cut_Your_Sticker.pdf" image="story_content/url.png" title="Module 8 Job Aid: Cut Your Sticker" />
+      <resource url="https://youtu.be/0YgSWUJinTw" image="story_content/url.png" title="Module 8 Video: Cut Your Sticker" />
+      <resource url="https://mist-mandy-philbrick.github.io/Cut_Your_Sticker/story_content/external_files/Video_Script_Cut_Your_Sticker.pdf" image="story_content/url.png" title="Module 8 Video Script: Cut Your Sticker" />
+      <resource url="https://mist-mandy-philbrick.github.io/Transfer_Your_Sticker/story_content/external_files/Job_Aid_Transfer_Your_Sticker.pdf" image="story_content/url.png" title="Module 9 Main Points: Transfer Your Sticker" />
+      <resource url="https://youtu.be/_EBc2JycpK4?si=VjDmvrFU-kw-1YHW" image="story_content/url.png" title="Module 9 Video: Transfer Your Sticker" />
+      <resource url="https://mist-mandy-philbrick.github.io/Transfer_Your_Sticker/story_content/external_files/Video_Script_Transfer_Your_Sticker.pdf" image="story_content/url.png" title="Module 9 Video Script: Transfer Your Sticker" />
     </resources>
   </resource_data>
   <transcript_data />
